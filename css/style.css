@@ -1,0 +1,70 @@
+body{
+	padding-top: 70px;
+	font-family: Roboto;
+}
+
+h1{
+	font-weight: 700;
+}
+
+h3{
+	font-weight: 700;
+}
+
+h4{
+	font-weight: 700;
+}
+
+.navbar-collapse{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.navbar-nav{
+	align-items: center;
+	font-weight: 500;
+}
+
+.container{
+  width: 1140px;
+}
+
+.disabled{
+	font-weight: 500;
+	font-size: 23px;
+}
+
+.top-text{
+	color: #000;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 50px;
+	margin-left: 90px;
+}
+
+.top-text-bold{
+	font-size: 90px;
+}
+
+.price-text{
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.btn-primary{
+	background-color: green;
+	/*border-radius: 500px;*/
+}
+
+.reviews-text{
+	margin: 30px;
+	text-align: center;
+
+}
+
+.review{
+	text-align: center;
+	margin-top: 30px;
+}
